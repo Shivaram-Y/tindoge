@@ -73,10 +73,10 @@ p {
 }
 
 .title-image {
-  width: 20%;
+  width: 60%;
   transform: rotate(+25deg);
   position: absolute;
-  left: 60%;
+  left: 30%;
 }
 
 /* Features */
