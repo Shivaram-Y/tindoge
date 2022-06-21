@@ -1,6 +1,3 @@
-html {
-  scroll-behavior: smooth;
-}
 
 #title {
   background-color: #ffc648;
@@ -73,7 +70,7 @@ p {
 }
 
 .title-image {
-  width: 60%;
+  width: 50%;
   transform: rotate(+25deg);
   position: absolute;
   left: 30%;
@@ -156,8 +153,6 @@ p {
 }
 
 /* footer */
-  {}
-
 #cta {
   background-color: #ffc468;
   color: white;
